@@ -1,6 +1,6 @@
-path: /content/AulaDia02
-train: /content/AulaDia02/Train/images
-val: /content/AulaDia02/Val/images
+path: /content/AulaYolo
+train: /content/AulaYolo/Train/images
+val: /content/AulaYolo/Val/images
 
 names:
   0: Ativimetro
