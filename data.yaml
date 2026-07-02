@@ -1,0 +1,10 @@
+path: /content/AulaDia02
+train: /content/AulaDia02/Train/images
+val: /content/AulaDia02/Val/images
+
+names:
+  0: Ativimetro
+  1: Com_Luva
+  2: Cesta
+  3: Amostra
+  4: Sem_luva
